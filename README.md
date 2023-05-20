@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=totawanes02&label=Profile%20views&color=0e75b6&style=flat" alt="totawanes02" /> </p>
 
-<p align="left"> <a href="https://twitter.com/totawanes02" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud01927585?logo=twitter&style=for-the-badge" alt="totawanes02" /></a> </p>
+<p align="left"> <a href="https://twitter.com/totawanes02" target="blank"><img src="https://img.shields.io/twitter/follow/totawanes02?logo=twitter&style=for-the-badge" alt="totawanes02" /></a> </p>
 
 - 🌱 I’m currently learning **deep learning and read books about machine learning and data science**
 
